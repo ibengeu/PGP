@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0C01VYbnuoh+RU7WdgtRrxCX/t1jP7nXdmK6lnncZupXALLRJ9a+DY1mxl8TKVD585iPdrzE+2A0Km0o7gr8XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibenge.uforo\\Documents\\Optimus\\PGP\\PGP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibenge.uforo\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
